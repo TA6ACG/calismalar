@@ -34,7 +34,7 @@ public class NewJFrame extends javax.swing.JFrame {
         btnBitir = new javax.swing.JButton();
         jlSayac = new javax.swing.JLabel();
         jButton1 = new javax.swing.JButton();
-
+ 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
